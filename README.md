@@ -92,7 +92,7 @@ When K increases, the same observations can be divided into more specific groups
 
 ## Live Interactive Lab
 
-The [interactive lab](https://supahumano.github.io/CAI2100C-KMeans-Visualization/) allows a visitor to switch between K = 3, 4, 5, and 9; examine the actual observations and cluster centers; and explore two pairs of flower measurements.
+The [interactive lab](https://supahumano.github.io/CAI2100C-KMeans-Visualization/) allows a visitor to switch between K = 3, 4, 5, and 9; examine the actual observations and cluster centers; and explore petal length and petal width.
 
 The browser shows **precomputed, reproducible scikit-learn results**. It does not retrain the model in JavaScript. The Python notebook contains the computational experiment.
 
